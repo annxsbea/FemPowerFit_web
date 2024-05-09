@@ -1,0 +1,7 @@
+.banner{
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.8)),
+    url('../../../public/home.png')  center/cover no-repeat;
+   
+    height: 792px;
+}
+
