@@ -5,7 +5,7 @@ import { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 
-import Services from "../componentes/Services";
+import Services from "../componentes/ServicesPage";
 import About from "../componentes/About";
 import Home from "../componentes/Home";
 import NavBar from "@/componentes/NavBar";
